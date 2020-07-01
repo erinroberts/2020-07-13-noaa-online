@@ -7,4 +7,5 @@ This repository houses the gh-pages website and other materials used for the NOA
 Please contact the Host and instructors for additional information.
 
 Host:  andrew.jones@noaa.gov
+
 Instructors: Shaily Gandhi (shaily.gandhi@gmail.com), Chandra Sarkar (csarkar@nevada.unr.edu), Adam Hughes (jahughes@uark.edu), Erin Roberts (erin_roberts@uri.edu)
